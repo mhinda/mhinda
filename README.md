@@ -1,20 +1,18 @@
-# Hi, I'm Amani Mhinda 👋
+## 👋 Hi, I'm Amani Mhinda
 
-**Remote Full-Stack Developer**  
-Django • React • Next.js • Spring Boot  
-🌍 Open to Remote Opportunities
+Experienced **Full-Stack Software Developer** with **10+ years** of experience building **scalable web applications**, **RESTful APIs**, and **automation systems**.
 
-Experienced full-stack software developer with **10+ years** building scalable web applications, REST APIs, and automation systems.  
-I specialize in **backend-heavy systems**, clean APIs, and maintainable full-stack solutions.  
-Currently seeking **international remote experience** with startups or distributed teams.
+I specialize in **backend-focused architectures**, **clean API design**, and **highly reusable, maintainable codebases**. My work emphasizes reliability, clarity, and long-term maintainability.
+
+🌍 **Currently seeking international remote opportunities** with startups or distributed teams, where I can contribute to building reliable systems and grow within a global engineering environment.
 
 ---
 
 ## 🔗 Contact & Links
 
 - 📄 **CV / Resume:**  
-- [Download PDF](https://raw.githubusercontent.com/mhinda/mhinda/main/Amani_Mhinda_CV.pdf)  
-- [Preview on GitHub](./Amani_Mhinda_CV.pdf)
+       [Download PDF](https://raw.githubusercontent.com/mhinda/mhinda/main/Amani_Mhinda_CV.pdf)  
+       [Preview on GitHub](./Amani_Mhinda_CV.pdf)
 
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/amani-mhinda-514a37128/ 
 - 📧 **Email:** amani.mhinda@gmail.com
