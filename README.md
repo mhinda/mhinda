@@ -10,10 +10,7 @@ I specialize in **backend-focused architectures**, **clean API design**, and **h
 
 ## 🔗 Contact & Links
 
-- 📄 **CV / Resume:**  
-       [Download PDF](https://raw.githubusercontent.com/mhinda/mhinda/main/Amani_Mhinda_CV.pdf)  
-       [Preview on GitHub](./Amani_Mhinda_CV.pdf)
-
+- 📄 **CV / Resume:**  [Download PDF](https://raw.githubusercontent.com/mhinda/mhinda/main/Amani_Mhinda_CV.pdf) | [Preview on GitHub](./Amani_Mhinda_CV.pdf)
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/amani-mhinda-514a37128/ 
 - 📧 **Email:** amani.mhinda@gmail.com
 - 💻 **GitHub:** https://github.com/mhinda
