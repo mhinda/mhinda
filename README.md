@@ -63,12 +63,6 @@ Currently seeking **international remote experience** with startups or distribut
 
 ---
 
-## 📈 GitHub Stats
-
-![Amani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhinda&show_icons=true&hide_border=true)
-
----
-
 ## 🚀 What I’m Looking For
 
 - Remote junior–mid or contract roles
